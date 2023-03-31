@@ -69,8 +69,8 @@ The Suraksha-Glove aims to provide comprehensive security. The glove can be acti
 
 Video explanation -
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I0SYXqLJtDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  style="max-width: 100%;" allowfullscreen></iframe>
+[![YouTube Demo](https://img.youtube.com/vi/I0SYXqLJtDs/0.jpg)](https://www.youtube.com/watch?v=I0SYXqLJtDs)
 
-Like and Share - [![Thinkstartup](https://img.youtube.com/vi/lM5Mw3BNy0c/0.jpg)](https://www.youtube.com/watch?v=lM5Mw3BNy0c)
+[![Thinkstartup](https://img.youtube.com/vi/lM5Mw3BNy0c/0.jpg)](https://www.youtube.com/watch?v=lM5Mw3BNy0c)
 
 Contact or Feedback - [Email](mailto:ishaanbhimwal07@gmail.com)
